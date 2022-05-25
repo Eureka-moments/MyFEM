@@ -35,5 +35,6 @@
     第二部分为力边界信息
     第一个整数为力约束数量
     下列每行七个数，分别为力约束x、y方向分量、起始点x、y坐标、终止点x、y坐标、力类型（0为场力、1为表面力）
+###实例展示：
 
 ![image](https://github.com/Eureka-moments/MyFEM/blob/master/data/test_4/%E9%80%89%E6%8B%A9%E4%B8%8D%E5%90%8C%E7%89%A9%E7%90%86%E9%87%8F%E5%BE%97%E5%88%B0%E4%B8%8D%E5%90%8C%E5%9B%BE%E5%83%8F.png)
